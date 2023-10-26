@@ -1,4 +1,6 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="50" r="50" fill="blue"/>
-    <text x="0" y="15" fill="red">asd</text>
+    <svg width="200" height="200">
+        <circle cx="100" cy="100" r="50" stroke-width="1" fill="red" />
+        </svg>
+    <text x="120" y="100" fill="yellow">HEY</text>
     </svg>
