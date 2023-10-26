@@ -1,6 +1,7 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
     <svg width="200" height="200">
-        <circle cx="100" cy="100" r="50" stroke-width="1" fill="red" />
+        <polygon points="100,0 160,100 40,100" fill="BLUE" />
+        
         </svg>
-    <text x="120" y="100" fill="yellow">HEY</text>
+    <text x="120" y="100" fill="RED">HII</text>
     </svg>
